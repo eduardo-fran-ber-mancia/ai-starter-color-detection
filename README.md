@@ -1,5 +1,5 @@
 # ai-starter-color-detection
-##A basic usage of using serial ports and color sensors on Dobot's AIStarter 
+## A basic usage of using serial ports and color sensors on Dobot's AIStarter 
 
 This is a basic way of making the car recognize colors, in this case, red.
 
